@@ -1,0 +1,179 @@
+- type: tile
+  id: MedievalFloorPlanetGrass1
+  name: tiles-grass-planet-floor1
+  sprite: /Textures/Tiles/Planet/MdvGrass1/grass.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 1
+  edgeSprites:
+    SouthEast: /Textures/Tiles/Planet/MdvGrass1/single_edge.png
+    NorthEast: /Textures/Tiles/Planet/MdvGrass1/single_edge.png
+    NorthWest: /Textures/Tiles/Planet/MdvGrass1/single_edge.png
+    SouthWest: /Textures/Tiles/Planet/MdvGrass1/single_edge.png
+    South: /Textures/Tiles/Planet/MdvGrass1/double_edge.png
+    East: /Textures/Tiles/Planet/MdvGrass1/double_edge.png
+    North: /Textures/Tiles/Planet/MdvGrass1/double_edge.png
+    West: /Textures/Tiles/Planet/MdvGrass1/double_edge.png
+  baseTurf: FloorPlanetDirt
+  isSubfloor: true
+  canCrowbar: false
+  footstepSounds:
+    collection: FootstepGrass
+  itemDrop: FloorTileItemGrass
+  heatCapacity: 10000
+  weather: true
+  indestructible: true
+
+- type: tile
+  id: MedievalFloorPlanetGrass2
+  name: tiles-grass-planet-floor2
+  sprite: /Textures/Tiles/Planet/MdvGrass2/grass.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 1
+  edgeSprites:
+    SouthEast: /Textures/Tiles/Planet/MdvGrass2/single_edge.png
+    NorthEast: /Textures/Tiles/Planet/MdvGrass2/single_edge.png
+    NorthWest: /Textures/Tiles/Planet/MdvGrass2/single_edge.png
+    SouthWest: /Textures/Tiles/Planet/MdvGrass2/single_edge.png
+    South: /Textures/Tiles/Planet/MdvGrass2/double_edge.png
+    East: /Textures/Tiles/Planet/MdvGrass2/double_edge.png
+    North: /Textures/Tiles/Planet/MdvGrass2/double_edge.png
+    West: /Textures/Tiles/Planet/MdvGrass2/double_edge.png
+  baseTurf: FloorPlanetDirt
+  isSubfloor: true
+  canCrowbar: false
+  footstepSounds:
+    collection: FootstepGrass
+  itemDrop: FloorTileItemGrass
+  heatCapacity: 10000
+  weather: true
+  indestructible: true
+
+- type: tile
+  id: MedievalFloorPlanetGrass3
+  name: tiles-grass-planet-floor3
+  sprite: /Textures/Tiles/Planet/MdvGrass3/grass.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 1
+  edgeSprites:
+    SouthEast: /Textures/Tiles/Planet/MdvGrass3/single_edge.png
+    NorthEast: /Textures/Tiles/Planet/MdvGrass3/single_edge.png
+    NorthWest: /Textures/Tiles/Planet/MdvGrass3/single_edge.png
+    SouthWest: /Textures/Tiles/Planet/MdvGrass3/single_edge.png
+    South: /Textures/Tiles/Planet/MdvGrass3/double_edge.png
+    East: /Textures/Tiles/Planet/MdvGrass3/double_edge.png
+    North: /Textures/Tiles/Planet/MdvGrass3/double_edge.png
+    West: /Textures/Tiles/Planet/MdvGrass3/double_edge.png
+  baseTurf: FloorPlanetDirt
+  isSubfloor: true
+  canCrowbar: false
+  footstepSounds:
+    collection: FootstepGrass
+  itemDrop: FloorTileItemGrass
+  heatCapacity: 10000
+  weather: true
+  indestructible: true
+
+- type: tile
+  id: MedievalFloorPlanetGrass4
+  name: tiles-grass-planet-floor4
+  sprite: /Textures/Tiles/Planet/MdvGrass4/grass.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 1
+  edgeSprites:
+    SouthEast: /Textures/Tiles/Planet/MdvGrass4/single_edge.png
+    NorthEast: /Textures/Tiles/Planet/MdvGrass4/single_edge.png
+    NorthWest: /Textures/Tiles/Planet/MdvGrass4/single_edge.png
+    SouthWest: /Textures/Tiles/Planet/MdvGrass4/single_edge.png
+    South: /Textures/Tiles/Planet/MdvGrass4/double_edge.png
+    East: /Textures/Tiles/Planet/MdvGrass4/double_edge.png
+    North: /Textures/Tiles/Planet/MdvGrass4/double_edge.png
+    West: /Textures/Tiles/Planet/MdvGrass4/double_edge.png
+  baseTurf: FloorPlanetDirt
+  isSubfloor: true
+  canCrowbar: false
+  footstepSounds:
+    collection: FootstepGrass
+  itemDrop: FloorTileItemGrass
+  heatCapacity: 10000
+  weather: true
+  indestructible: true
+
+- type: tile
+  id: MedievalFloorPlanetGrass5
+  name: tiles-grass-planet-floor5
+  sprite: /Textures/Tiles/Planet/MdvGrass5/grass.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 1
+  edgeSprites:
+    SouthEast: /Textures/Tiles/Planet/MdvGrass5/single_edge.png
+    NorthEast: /Textures/Tiles/Planet/MdvGrass5/single_edge.png
+    NorthWest: /Textures/Tiles/Planet/MdvGrass5/single_edge.png
+    SouthWest: /Textures/Tiles/Planet/MdvGrass5/single_edge.png
+    South: /Textures/Tiles/Planet/MdvGrass5/double_edge.png
+    East: /Textures/Tiles/Planet/MdvGrass5/double_edge.png
+    North: /Textures/Tiles/Planet/MdvGrass5/double_edge.png
+    West: /Textures/Tiles/Planet/MdvGrass5/double_edge.png
+  baseTurf: FloorPlanetDirt
+  isSubfloor: true
+  canCrowbar: false
+  footstepSounds:
+    collection: FootstepGrass
+  itemDrop: FloorTileItemGrass
+  heatCapacity: 10000
+  weather: true
+  indestructible: true
+
+- type: tile
+  id: MedievalFloorPlanetGrass6
+  name: tiles-grass-planet-floor6
+  sprite: /Textures/Tiles/Planet/MdvGrass6/grass.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  edgeSpritePriority: 1
+  edgeSprites:
+    SouthEast: /Textures/Tiles/Planet/MdvGrass6/single_edge.png
+    NorthEast: /Textures/Tiles/Planet/MdvGrass6/single_edge.png
+    NorthWest: /Textures/Tiles/Planet/MdvGrass6/single_edge.png
+    SouthWest: /Textures/Tiles/Planet/MdvGrass6/single_edge.png
+    South: /Textures/Tiles/Planet/MdvGrass6/double_edge.png
+    East: /Textures/Tiles/Planet/MdvGrass6/double_edge.png
+    North: /Textures/Tiles/Planet/MdvGrass6/double_edge.png
+    West: /Textures/Tiles/Planet/MdvGrass6/double_edge.png
+  baseTurf: FloorPlanetDirt
+  isSubfloor: true
+  canCrowbar: false
+  footstepSounds:
+    collection: FootstepGrass
+  itemDrop: FloorTileItemGrass
+  heatCapacity: 10000
+  weather: true
+  indestructible: true
